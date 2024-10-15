@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task8 - 16.10.2024\Encapsulation\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
