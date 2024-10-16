@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task8 - 16.10.2024\\encapsulation\\encapsulation\\models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task8 - 16.10.2024\\encapsulation\\encapsulation\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task8 - 16.10.2024\\encapsulation\\encapsulation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task8 - 16.10.2024\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task8 - 16.10.2024\\encapsulation\\encapsulation\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task8 - 16.10.2024\\encapsulation\\encapsulation\\models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242E852C-7F47-41E7-AA53-2C15A761B94F}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Program.cs",
               "RelativeToolTip": "Encapsulation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T14:46:22.718Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Encapsulation\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Models\\Product.cs",
               "RelativeToolTip": "Encapsulation\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T14:46:46.789Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Phone.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Models\\Phone.cs",
               "RelativeDocumentMoniker": "Encapsulation\\Models\\Phone.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Models\\Phone.cs",
               "RelativeToolTip": "Encapsulation\\Models\\Phone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCkAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T16:56:08.586Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Notebook.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Models\\Notebook.cs",
               "RelativeDocumentMoniker": "Encapsulation\\Models\\Notebook.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task8 - 16.10.2024\\Encapsulation\\Encapsulation\\Models\\Notebook.cs",
               "RelativeToolTip": "Encapsulation\\Models\\Notebook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T20:15:43.635Z",
               "EditorCaption": ""

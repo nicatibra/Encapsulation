@@ -2,9 +2,9 @@
 {
     class Phone : Product
     {
-        public int _ram;
-        public string _color;
-        public double _balance;
+        private int _ram;
+        private string _color;
+        private double _balance;
         public int Ram
         {
             get { return _ram; }
@@ -58,7 +58,7 @@
             if (Balance > seconds * 0.1)
             {
                 Balance -= seconds * 0.1;
-                Console.WriteLine($"Call successful! Duration: {seconds} seconds. Remaining Balance: {Balance}");
+                Console.WriteLine($"Call successful! Duration: {seconds} seconds.");
             }
             else
             {
@@ -71,7 +71,7 @@
             if (money > 0)
             {
                 Balance += money;
-                Console.WriteLine($"Payment successful! New Balance: {Balance}");
+                Console.WriteLine($"Payment successful! New Balance: {Balance}\n");
             }
             else
             {

@@ -6,7 +6,7 @@ namespace Encapsulation
     {
         static void Main(string[] args)
         {
-            Phone phone1 = new Phone("Apple", "Iphone", 1000, 500, 10, 8, "Silver");
+            Phone phone1 = new Phone("Apple", "Iphone", 1000, 500, 10, 8);
             phone1.Sale(3);
             phone1.GetInfo();
 

@@ -2,9 +2,9 @@
 {
     public class Notebook : Product
     {
-        public string _opSystem;
-        public string _processor;
-        public bool _hasGraphicCard;
+        private string _opSystem;
+        private string _processor;
+        private bool _hasGraphicCard;
 
         public string OpSystem { get { return _opSystem; } set { _opSystem = value; } }
         public string Processor { get { return _processor; } set { _processor = value; } }

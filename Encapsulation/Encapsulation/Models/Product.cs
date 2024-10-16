@@ -2,13 +2,13 @@
 {
     public class Product
     {
-        public string _id;
-        public string _brandName;
-        public string _model;
-        public decimal _price;
-        public decimal _cost;
-        public decimal _income = 0;
-        public int _count;
+        private string _id;
+        private string _brandName;
+        private string _model;
+        private decimal _price;
+        private decimal _cost;
+        private decimal _income = 0;
+        private int _count;
 
         public string Id
         {
@@ -30,7 +30,7 @@
             get { return _price; }
             set { _price = value; }
         }
-        public decimal Cost
+        private decimal Cost
         {
             get { return _cost; }
             set { _cost = value; }
