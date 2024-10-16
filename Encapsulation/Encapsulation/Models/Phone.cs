@@ -42,8 +42,8 @@
         public Phone(string brandName, string model, decimal price, decimal cost, int count, int ram, string color = "Black")
         : base(brandName, model, price, cost, count)
         {
-            _ram = ram;
-            _color = color;
+            Ram = ram;
+            Color = color;
             Balance = 0;
         }
 

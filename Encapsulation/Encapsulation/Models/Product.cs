@@ -6,7 +6,7 @@
         private string _brandName;
         private string _model;
         private decimal _price;
-        private decimal _cost;
+        protected decimal _cost;
         private decimal _income = 0;
         private int _count;
 
@@ -43,15 +43,26 @@
         public int Count
         {
             get { return _count; }
-            set { _count = value < 0 ? 0 : value; }
+            set
+            {
+                if (value < 0)
+                {
+                    Console.WriteLine("Count can't be negative. Setting it to 0.");
+                    _count = 0;
+                }
+                else
+                {
+                    _count = value;
+                }
+            }
         }
         public Product(string brandname, string model, decimal price, decimal cost, int count)
         {
-            _brandName = brandname;
-            _model = model;
-            _price = price;
-            _cost = cost;
-            _count = count;
+            BrandName = brandname;
+            Model = model;
+            Price = price;
+            Cost = cost;
+            Count = count;
 
             _id = _brandName.Substring(0, 2) + _model.Substring(0, 2);
         }
